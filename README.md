@@ -16,26 +16,6 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 
 <br>
 
-### Building now
-
-- **[EUCLIDE](https://euclide.co)** — my platform for AI in AEC. Open tools, honest field notes, and Claude Code skills that cite their sources.
-- **DUNE** — a building-code and floor-plan compliance checker. A photo becomes a check against the rules.
-- Teaching Claude Code and applied AI, in the open, to engineers who were never developers.
-
-<br>
-
-### Selected work
-
-| Project | What it is |
-| --- | --- |
-| **[EUCLIDE](https://euclide.co)** | Platform for AI in AEC. Open tools, field notes, no hype. |
-| **spec-triage** | A Claude Code skill that reads a construction spec and returns the clauses that shift cost onto you, each one citing its page. Tested on real FIDIC and French tender documents. |
-| **aec-digest** | A weekly intelligence pipeline over AEC and AI signals: scrape, enrich in my own voice, and synthesize what actually matters. |
-| **Styly** | Generative-AI product, built and run end to end. Paying users in 59+ countries. |
-| **[Matou](https://github.com/DoudouDoudouk/matou)** | A playful financial-education web app, built at a France hackathon. |
-
-<br>
-
 ### What I work with
 
 **Applied AI / GenAI** &nbsp;·&nbsp; LLMs · RAG · AI agents · document intelligence · Claude / Claude Code · LangChain · LangGraph
@@ -58,6 +38,17 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 
 <br>
 
+### Selected work
+
+| Project | What it is |
+| --- | --- |
+| **Styly** | Generative-AI product, built and run end to end. Paying users in 59+ countries. |
+| **spec-triage** | A Claude Code skill that reads a construction spec and returns the clauses that shift cost onto you, each one citing its page. Tested on real FIDIC and French tender documents. |
+| **aec-digest** | A weekly intelligence pipeline over AEC and AI signals: scrape, enrich in my own voice, and synthesize what actually matters. |
+| **[Matou](https://github.com/DoudouDoudouk/matou)** | A playful financial-education web app, built at a France hackathon. |
+
+<br>
+
 ### By the numbers
 
 - **200+** engineers onboarded to AI and BIM across India, Italy and Turkey
@@ -76,5 +67,4 @@ Ten years leading engineering and construction projects across seven countries b
 ### Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=4edea3)](https://linkedin.com/in/oduhan)
-[![Website](https://img.shields.io/badge/euclide.co-0d1117?style=flat-square&logo=globe&logoColor=4edea3)](https://euclide.co)
-[![Email](https://img.shields.io/badge/contact@euclide.co-0d1117?style=flat-square&logo=maildotru&logoColor=4edea3)](mailto:contact@euclide.co)
+[![Email](https://img.shields.io/badge/koyuncuduhan@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=4edea3)](mailto:koyuncuduhan@gmail.com)
