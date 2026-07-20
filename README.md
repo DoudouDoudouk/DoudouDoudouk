@@ -62,17 +62,6 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 
 <br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DoudouDoudouk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=4edea3&icon_color=4edea3&text_color=c3c8c1&bg_color=0d1117" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoudouDoudouk&layout=compact&hide_border=true&title_color=4edea3&text_color=c3c8c1&bg_color=0d1117&langs_count=8" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoudouDoudouk&bg_color=0d1117&color=c3c8c1&line=4edea3&point=4edea3&area=true&area_color=4edea3&hide_border=true&custom_title=Contribution+activity" alt="Activity graph" width="98%">
-</p>
-
-<br>
-
 ### By the numbers
 
 - **200+** engineers onboarded to AI and BIM across India, Italy and Turkey
