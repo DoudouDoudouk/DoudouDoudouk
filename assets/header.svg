@@ -10,13 +10,11 @@
   <g clip-path="url(#round)">
     <rect width="1200" height="300" fill="url(#fade)"/>
 
-    <!-- faint drafting grid -->
     <g stroke="#4edea3" stroke-width="1" opacity="0.05">
       <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200"/>
       <path d="M300 0 V300 M600 0 V300 M900 0 V300"/>
     </g>
 
-    <!-- Proposition 1 construction motif, right side -->
     <g transform="translate(980,150)" opacity="0.9">
       <circle cx="-38" cy="0" r="86" fill="none" stroke="#4edea3" stroke-width="2" opacity="0.30"/>
       <circle cx="38" cy="0" r="86" fill="none" stroke="#4edea3" stroke-width="2" opacity="0.30"/>
@@ -26,7 +24,6 @@
       <circle cx="0" cy="-66" r="4.5" fill="#4edea3"/>
     </g>
 
-    <!-- text -->
     <g font-family="Inter, Helvetica, Arial, sans-serif">
       <text x="72" y="92" fill="#4edea3" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="15" letter-spacing="5">APPLIED AI · ADOPTION</text>
       <text x="70" y="158" fill="#f0eeee" font-size="62" font-weight="800" letter-spacing="1">Duhan</text>
