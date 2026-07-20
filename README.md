@@ -16,13 +16,21 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 
 <br>
 
-### Focus
-
-**Applied AI in production** — LLMs, RAG and agents with Claude / Claude Code and LangGraph, shipped on Python and AWS, with the observability to run them safely. I have also built the full stack around them: image pipelines (Stable Diffusion, FLUX, ComfyUI), Next.js front ends, Supabase and Postgres, auth, billing and analytics.
+### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,aws,nextjs,react,ts,supabase&theme=dark" alt="core stack">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,tailwind,nodejs,supabase,postgres,aws,gcp,cloudflare,terraform,docker,git,vercel&theme=dark&perline=8" alt="stack" />
 </p>
+
+**Applied AI / GenAI** &nbsp;·&nbsp; LLMs · RAG · AI agents · document intelligence · Claude / Claude Code · LangChain · LangGraph
+
+**Image & vision** &nbsp;·&nbsp; Stable Diffusion · FLUX (fine-tuning) · ComfyUI · ControlNet · IP-Adapter · YOLO · Grounding DINO
+
+**Cloud & infra** &nbsp;·&nbsp; AWS (Bedrock, AgentCore) · Google Cloud · Scaleway · Cloudflare · Hostinger · Terraform · Docker · GitHub Actions · CloudWatch · OpenTelemetry
+
+**Data & backend** &nbsp;·&nbsp; Supabase · PostgreSQL · authentication · API design · Resend (transactional email) · Stripe & Lemon Squeezy billing
+
+**Product & growth** &nbsp;·&nbsp; roadmap · discovery · customer-journey design · feedback loops · iteration · agile delivery · analytics (Amplitude, PostHog) · SEO / GEO · PMP-style governance
 
 <br>
 
