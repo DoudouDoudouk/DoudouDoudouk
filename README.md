@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Duhan Koyuncu — I build AI, and I get engineering teams to actually use it." width="100%">
+  <img src="./assets/banner.svg" alt="Duhan — I build AI, and I get engineering teams to actually use it." width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=4EDEA3&center=true&vCenter=true&width=760&lines=Applied+AI+%26+adoption+in+engineering;LLM+agents+in+real+engineering+workflows;200%2B+engineers+trained+%C2%B7+59%2B+countries+shipped;From+the+site+to+the+code" alt="typing tagline">
 </p>
 
 ## I build AI, and I get engineering teams to actually use it.
@@ -18,6 +22,10 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 
 ### What I work with
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,terraform,nextjs,react,ts,tailwind,docker,git&theme=dark" alt="tech stack">
+</p>
+
 **Applied AI / GenAI** &nbsp;·&nbsp; LLMs · RAG · AI agents · document intelligence · Claude / Claude Code · LangChain · LangGraph
 
 **Image & vision** &nbsp;·&nbsp; Stable Diffusion · FLUX (fine-tuning) · ComfyUI · ControlNet · IP-Adapter · YOLO · Grounding DINO
@@ -25,16 +33,6 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 **Cloud & infra** &nbsp;·&nbsp; AWS Bedrock & AgentCore · Terraform · GitHub Actions · API Gateway · CloudWatch · OpenTelemetry
 
 **Product & delivery** &nbsp;·&nbsp; roadmap · discovery · agile · analytics (Amplitude, PostHog) · PMP-style governance
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=4edea3" alt="Python">
-  <img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=flat-square&logo=anthropic&logoColor=4edea3" alt="Claude Code">
-  <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=4edea3" alt="LangChain">
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-0d1117?style=flat-square&logo=amazonwebservices&logoColor=4edea3" alt="AWS">
-  <img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=4edea3" alt="Terraform">
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=4edea3" alt="Next.js">
-  <img src="https://img.shields.io/badge/OpenTelemetry-0d1117?style=flat-square&logo=opentelemetry&logoColor=4edea3" alt="OpenTelemetry">
-</p>
 
 <br>
 
@@ -46,6 +44,13 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 | **spec-triage** | A Claude Code skill that reads a construction spec and returns the clauses that shift cost onto you, each one citing its page. Tested on real FIDIC and French tender documents. |
 | **aec-digest** | A weekly intelligence pipeline over AEC and AI signals: scrape, enrich in my own voice, and synthesize what actually matters. |
 | **[Matou](https://github.com/DoudouDoudouk/matou)** | A playful financial-education web app, built at a France hackathon. |
+
+<br>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DoudouDoudouk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=4edea3&icon_color=4edea3&text_color=c3c8c1&bg_color=0d1117" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoudouDoudouk&layout=compact&hide_border=true&title_color=4edea3&text_color=c3c8c1&bg_color=0d1117&langs_count=8" alt="Top languages">
+</p>
 
 <br>
 
@@ -66,5 +71,6 @@ Ten years leading engineering and construction projects across seven countries b
 
 ### Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=4edea3)](https://linkedin.com/in/oduhan)
-[![Email](https://img.shields.io/badge/koyuncuduhan@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=4edea3)](mailto:koyuncuduhan@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/oduhan"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4edea3" alt="LinkedIn"></a>
+</p>
