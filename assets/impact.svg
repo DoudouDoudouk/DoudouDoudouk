@@ -1,0 +1,38 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Impact: 200+ engineers trained, 59+ countries shipped, 10K monthly organic traffic, 10 years on site in 7 countries.">
+  <defs><clipPath id="r"><rect width="1200" height="190" rx="18"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="190" fill="#0d1117"/>
+    <g stroke="#4edea3" stroke-width="1" opacity="0.05">
+      <path d="M0 47 H1200 M0 95 H1200 M0 143 H1200"/>
+    </g>
+
+    <!-- dividers -->
+    <g stroke="#4edea3" stroke-width="1" opacity="0.16">
+      <path d="M300 46 V144"/><path d="M600 46 V144"/><path d="M900 46 V144"/>
+    </g>
+
+    <g font-family="Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <!-- col 1 -->
+      <text x="150" y="102" fill="#4edea3" font-size="52" font-weight="800" letter-spacing="-1">200+</text>
+      <rect x="136" y="116" width="28" height="3" fill="#4edea3" opacity="0.7"/>
+      <text x="150" y="146" fill="#c3c8c1" font-size="15">engineers trained</text>
+
+      <!-- col 2 -->
+      <text x="450" y="102" fill="#4edea3" font-size="52" font-weight="800" letter-spacing="-1">59+</text>
+      <rect x="436" y="116" width="28" height="3" fill="#4edea3" opacity="0.7"/>
+      <text x="450" y="146" fill="#c3c8c1" font-size="15">countries shipped</text>
+
+      <!-- col 3 -->
+      <text x="750" y="102" fill="#4edea3" font-size="52" font-weight="800" letter-spacing="-1">10K<tspan font-size="24" fill="#8b928a">/mo</tspan></text>
+      <rect x="736" y="116" width="28" height="3" fill="#4edea3" opacity="0.7"/>
+      <text x="750" y="146" fill="#c3c8c1" font-size="15">organic traffic, 14 months</text>
+
+      <!-- col 4 -->
+      <text x="1050" y="102" fill="#4edea3" font-size="52" font-weight="800" letter-spacing="-1">10<tspan font-size="24" fill="#8b928a">yrs</tspan></text>
+      <rect x="1036" y="116" width="28" height="3" fill="#4edea3" opacity="0.7"/>
+      <text x="1050" y="146" fill="#c3c8c1" font-size="15">on site, 7 countries</text>
+    </g>
+
+    <text x="600" y="30" fill="#8b928a" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="12" letter-spacing="4" text-anchor="middle">TRACK RECORD</text>
+  </g>
+</svg>

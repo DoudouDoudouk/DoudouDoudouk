@@ -62,13 +62,13 @@ Applied AI and adoption in engineering and construction. I find the use cases wo
 
 <br>
 
-### By the numbers
+### Track record
 
-- **200+** engineers onboarded to AI and BIM across India, Italy and Turkey
-- **59+** countries with paying users at Styly
-- **10K** monthly organic visits sustained for 14 consecutive months on a product I grew
-- **10** years on engineering and construction sites in **7** countries
-- Delivered a company's first GenAI talk and first ComfyUI session at Digital Engineering Week
+<p align="center">
+  <img src="./assets/impact.svg" alt="200+ engineers trained, 59+ countries shipped, 10K monthly organic traffic, 10 years on site in 7 countries" width="100%">
+</p>
+
+Delivered a company's first GenAI talk and first ComfyUI session at Digital Engineering Week, and onboarded 200+ CAD/BIM users across India, Italy and Turkey.
 
 <br>
 
@@ -82,4 +82,6 @@ Ten years leading engineering and construction projects across seven countries b
 
 <p>
   <a href="https://linkedin.com/in/oduhan"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4edea3" alt="LinkedIn"></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DoudouDoudouk&color=4edea3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </p>
